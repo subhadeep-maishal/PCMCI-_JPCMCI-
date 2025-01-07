@@ -9,7 +9,7 @@ More details visit:  https://github.com/jakobrunge/tigramite
 
 
 
-![Figure](https://github.com/subhadeep-maishal/PCMCI-_JPCMCI-/blob/main/PCMCI%2B_J-PCMCI%2B.jpg) 
+![Figure](https://github.com/subhadeep-maishal/PCMCIplus_JPCMCIplus/blob/main/PCMCI%2B_J-PCMCI%2B.jpg) 
 
 
 
