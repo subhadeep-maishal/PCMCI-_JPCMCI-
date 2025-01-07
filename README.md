@@ -1,4 +1,4 @@
-# PCMCI+  _||_ JPCMCI+
+# PCMCI+  _||_ J-PCMCI+
 Causal inference analysis for time series datasets    
 
 
